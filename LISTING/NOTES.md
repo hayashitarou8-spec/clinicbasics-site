@@ -100,3 +100,12 @@
 - [ ] A8提携の申請と承認後のリンク差し替え（表記は開示ブロックに合わせる）
 - [ ] ブラウザでの表示確認（PC・スマホ、表の横スクロール、リンク切れ）
 - [ ] 公開直前に料金を再確認し、確認日を更新
+
+---
+## 2026-10-27 公開記録（JST）
+- 21:20頃 noindexを削除（570e926）→ masterへfast-forwardでマージしてpush（ac24e2f..570e926）
+- Renderの自動デプロイが発火しなかった（前回のデプロイは10/26の3e20d4dのまま）ため、21:27にRender上で手動デプロイを実行（dep-dbg9h80m7kps73bqbgq0、live）
+- https://clinicbasics.onrender.com/articles/aga-clinic-compare.html は 200で、noindexなし。トップページにも記事へのリンクあり
+- **未解決**: https://clinicbasics.jp/ は古い版のまま（last-modified 10/26 08:27 UTC）。記事URLは404。このRenderサービスには独自ドメインの情報がなく、clinicbasics.jp は別の配信元か別アカウントのサービスを向いている可能性がある。DNSと独自ドメインの設定を人が確認する必要あり
+- RenderとGitHubの連携（自動デプロイ用のwebhook）も確認が必要
+- A8リンクは未掲載（提携承認待ち）
