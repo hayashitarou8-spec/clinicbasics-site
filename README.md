@@ -17,6 +17,8 @@
 | `articles/03-online-vs-inperson.html` | オンラインと対面 |
 | `articles/04-cancel-continue.html` | 解約・休薬・継続 |
 | `articles/05-reading-official-sites.html` | 公式サイトの読み方 |
+| `articles/aga-clinic-compare.html` | AGAクリニック比較（予防・承認薬） |
+| `articles/06-minoxidil-oral-approval.html` | ミノキシジル内服の国内承認・確認リスト |
 | `style.css` | 共通スタイル |
 
 ## 静的ホストへのデプロイ（例: Render Static Site）
