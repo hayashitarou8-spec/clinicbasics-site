@@ -127,3 +127,13 @@
 - index.html に導線追加
 - A8成果リンクなし（開示のみ）。内部リンクは07・aga比較・01・04・05・06へ
 - 本番デプロイは clinicbasics-5f41（親が手動）。本コミットは git push まで
+
+---
+## 2026-10-28 記事10（初期脱毛）— push済・5f41未deploy
+- KW: AGA 初期脱毛
+- ファイル: `articles/10-aga-initial-shedding.html` + index導線 + 08/09内部リンク
+- 競合トレース: `LISTING/competitor-trace-10.md`
+- commit: `28329b36d110175f94e48006d737386cdef6262d`（master push済）
+- A8成果リンク: なし（開示のみ）
+- **本番ブロック**: user-Render MCP は tea-dbfcoj4s728c73eubog0（hayashitarou8@）のみ。見えるのは旧 `clinicbasics` srv-dbfgm1gae00c7381bp90。本番 `clinicbasics-5f41` srv-dbfgtnqjnfac73cbie7g は 404。Vault「Render ClinicBasics」アカウントへの trigger_deploy 不可。
+- 確認（2026-10-28 22:25 JST頃）: https://clinicbasics.jp/articles/10-aga-initial-shedding.html → **404**（5f41も404）。親が5f41 Manual Deploy後に200再確認が必要。
