@@ -119,3 +119,11 @@
 - A8成果リンク: なし（開示のみ）
 - live確認: https://clinicbasics.onrender.com/articles/07-finasteride-vs-dutasteride.html → **200**
 - **未解決（継続）**: `clinicbasics.jp` / `clinicbasics-5f41.onrender.com` は 2026-10-27 14:26 UTC 版のまま（etag旧）。www CNAME が `clinicbasics-5f41.onrender.com` を向いており、現行 `clinicbasics.onrender.com`（srv-dbfgm1gae00c7381bp90）と配信が分裂。DNS CNAMEを `clinicbasics.onrender.com` へ切替＋Renderで独自ドメイン再紐付けが必要（ユーザー承認後）。
+
+---
+## 2026-10-28 追記（記事08）
+- `articles/08-finasteride-side-effects.html` — フィナステリドの副作用（添付文書区分・国内試験要約・PSA／献血／女性小児／個人輸入・確認リスト）
+- `LISTING/competitor-trace-08.md` — 競合5件トレース
+- index.html に導線追加
+- A8成果リンクなし（開示のみ）。内部リンクは07・aga比較・01・04・05・06へ
+- 本番デプロイは clinicbasics-5f41（親が手動）。本コミットは git push まで
