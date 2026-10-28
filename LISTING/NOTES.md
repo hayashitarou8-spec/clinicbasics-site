@@ -109,3 +109,13 @@
 - **未解決**: https://clinicbasics.jp/ は古い版のまま（last-modified 10/26 08:27 UTC）。記事URLは404。このRenderサービスには独自ドメインの情報がなく、clinicbasics.jp は別の配信元か別アカウントのサービスを向いている可能性がある。DNSと独自ドメインの設定を人が確認する必要あり
 - RenderとGitHubの連携（自動デプロイ用のwebhook）も確認が必要
 - A8リンクは未掲載（提携承認待ち）
+
+---
+## 2026-10-28 記事07公開
+- KW: フィナステリド デュタステリド 違い
+- ファイル: `articles/07-finasteride-vs-dutasteride.html` + index導線
+- commit: `9b4be63`
+- 競合トレース: `/workspace/clinicbasics-competitor-trace-07.md`
+- A8成果リンク: なし（開示のみ）
+- live確認: https://clinicbasics.onrender.com/articles/07-finasteride-vs-dutasteride.html → **200**
+- **未解決（継続）**: `clinicbasics.jp` / `clinicbasics-5f41.onrender.com` は 2026-10-27 14:26 UTC 版のまま（etag旧）。www CNAME が `clinicbasics-5f41.onrender.com` を向いており、現行 `clinicbasics.onrender.com`（srv-dbfgm1gae00c7381bp90）と配信が分裂。DNS CNAMEを `clinicbasics.onrender.com` へ切替＋Renderで独自ドメイン再紐付けが必要（ユーザー承認後）。
