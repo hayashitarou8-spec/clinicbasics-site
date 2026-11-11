@@ -137,3 +137,11 @@
 - A8成果リンク: なし（開示のみ）
 - **本番ブロック**: user-Render MCP は tea-dbfcoj4s728c73eubog0（hayashitarou8@）のみ。見えるのは旧 `clinicbasics` srv-dbfgm1gae00c7381bp90。本番 `clinicbasics-5f41` srv-dbfgtnqjnfac73cbie7g は 404。Vault「Render ClinicBasics」アカウントへの trigger_deploy 不可。
 - 確認（2026-10-28 22:25 JST頃）: https://clinicbasics.jp/articles/10-aga-initial-shedding.html → **404**（5f41も404）。親が5f41 Manual Deploy後に200再確認が必要。
+
+---
+## 2026-11-11 記事11（ミノキシジル外用・市販）
+- KW: ミノキシジル 外用／市販
+- ファイル: `articles/11-minoxidil-topical-otc.html` + index導線 + 06/10内部リンク
+- 競合トレース: `LISTING/competitor-trace-11.md`
+- A8成果リンク: なし（開示のみ）。公式価格はメーカーサイト（確認日 2026-11-11 JST）
+- 料金例: リアップX5 5,980円／リグロEX5 4,950円／メディカルミノキ５ 4,980円／リジェンヌ 5,763円（いずれも公式税込。ランキングではない）
