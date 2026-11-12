@@ -383,3 +383,9 @@ img {
 /* pillar: wide comparison tables */
 .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .table-scroll table { min-width: 720px; }
+
+/* affiliate PR block */
+.pr-block { background: var(--surface); border: 1px solid var(--warn-border); border-radius: var(--radius); padding: 0.9rem 1.1rem; margin: 1.25rem 0; }
+.pr-block p { margin: 0 0 0.4rem; }
+.pr-block p:last-child { margin-bottom: 0; }
+.pr-label { display: inline-block; font-size: 0.75rem; font-weight: 700; border: 1px solid var(--muted); color: var(--muted); border-radius: 4px; padding: 0 0.35rem; margin-right: 0.35rem; line-height: 1.5; }
