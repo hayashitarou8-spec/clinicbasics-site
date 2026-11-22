@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clinicbasics.jp/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/about.html</loc>
@@ -22,15 +22,15 @@
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/01-first-visit-checklist.html</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/02-how-to-read-costs.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/03-online-vs-inperson.html</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/04-cancel-continue.html</loc>
@@ -83,6 +83,10 @@
   <url>
     <loc>https://clinicbasics.jp/articles/16-iryo-datsumo-cost.html</loc>
     <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicbasics.jp/articles/17-aga-first-exam.html</loc>
+    <lastmod>2026-11-22</lastmod>
   </url>
 </urlset>
 
