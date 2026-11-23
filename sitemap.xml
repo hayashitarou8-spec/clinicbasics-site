@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clinicbasics.jp/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/about.html</loc>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/05-reading-official-sites.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/06-minoxidil-oral-approval.html</loc>
@@ -78,15 +78,19 @@
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/15-iryo-datsumo-sessions.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/16-iryo-datsumo-cost.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://clinicbasics.jp/articles/17-aga-first-exam.html</loc>
     <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://clinicbasics.jp/articles/18-iryo-datsumo-pain.html</loc>
+    <lastmod>2026-11-23</lastmod>
   </url>
 </urlset>
 
